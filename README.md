@@ -2,10 +2,10 @@
 
 [Ссылка на датасет](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
-![Dataset cover](https://storage.googleapis.com/kaggle-datasets-images/835308/1426440/aaf8255ae75bbbec8c79afb01c5f3314/dataset-cover.jpg?t=2020-09-11-15-39-15)
+![Dataset cover](dataset-cover.jpg)
 
 ## ЦЕЛЬ:
-Проанилизировать статистику и структуру продаж для выявления ключевых драйверов генерации и роста выручки.
+Проанализировать статистику и структуру продаж для выявления ключевых драйверов генерации и роста выручки.
 
 ### Ключевые выводы:
 - Самая продаваемая категория товаров - *"Техника"*.
